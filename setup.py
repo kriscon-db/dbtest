@@ -1,5 +1,5 @@
 # Databricks notebook source
-dbutils.notebook.run("./test2.py", 600)
+dbutils.notebook.run("/Repos/kris.concepcion@databricks.com/dbtest/test2", 600)
 
 # COMMAND ----------
 
